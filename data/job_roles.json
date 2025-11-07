@@ -1,0 +1,12 @@
+{
+  "Data Analyst": ["python", "excel", "sql", "tableau", "powerbi", "data analysis", "statistics", "visualization"],
+  "Machine Learning Engineer": ["python", "tensorflow", "pytorch", "machine learning", "deep learning", "scikit-learn", "numpy", "pandas"],
+  "Web Developer": ["html", "css", "javascript", "react", "nodejs", "express", "api", "django", "flask"],
+  "Backend Developer": ["python", "django", "flask", "mysql", "api", "docker"],
+  "Frontend Developer": ["html", "css", "javascript", "react", "typescript", "redux", "bootstrap"],
+  "Data Scientist": ["python", "machine learning", "deep learning", "sql", "nlp", "pandas", "numpy", "statistics"],
+  "DevOps Engineer": ["linux", "aws", "docker", "jenkins", "kubernetes", "ci/cd", "bash", "terraform"],
+  "Software Tester": ["selenium", "python", "automation", "manual testing", "jira", "quality assurance"],
+  "Business Analyst": ["excel", "sql", "communication", "data visualization", "stakeholder management"],
+  "Cloud Engineer": ["aws", "azure", "gcp", "docker", "kubernetes", "linux", "terraform"]
+}
