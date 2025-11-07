@@ -51,8 +51,8 @@ Create a .env file in the project root and add:
 
 ini
 Copy code
-OPENROUTER_API_KEY=sk-or-v1-your-api-key-here
-🧠 Get your API key from OpenRouter.
+OPENAI_API_KEY=your-api-key-here
+🧠 Get your API key from OpenAI/any platform you like.
 
 🖥️ Run the Application
 bash
